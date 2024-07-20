@@ -30,3 +30,5 @@ Department for openly sharing this invaluable dataset, fostering insights into t
 dynamic landscape of crime in the city.
 Dataset: https://www.kaggle.com/datasets/adelanseur/crimes-2001-to-present-chicago
 ## Internship Completion Certificate
+![img](https://github.com/Mousarcar/CognoRise-Infotech/blob/main/cogno.PNG)
+
