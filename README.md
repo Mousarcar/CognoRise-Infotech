@@ -29,3 +29,4 @@ and city area evolution. Gratitude to the City of Chicago and the Chicago Police
 Department for openly sharing this invaluable dataset, fostering insights into the 
 dynamic landscape of crime in the city.
 Dataset: https://www.kaggle.com/datasets/adelanseur/crimes-2001-to-present-chicago
+## Internship Completion Certificate
